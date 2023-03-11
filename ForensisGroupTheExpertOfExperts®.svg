@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="400mm"
+   height="300mm"
+   viewBox="0 0 400 300"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="ForensisGroupTheExpertOfExperts®.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.2973261"
+     inkscape:cx="546.53796"
+     inkscape:cy="519.63147"
+     inkscape:window-width="1125"
+     inkscape:window-height="680"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6353">
+      <stop
+         style="stop-color:#643fa6;stop-opacity:1;"
+         offset="0"
+         id="stop6349" />
+      <stop
+         style="stop-color:#a68c3f;stop-opacity:0;"
+         offset="1"
+         id="stop6351" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6339">
+      <stop
+         style="stop-color:#a68c3f;stop-opacity:1;"
+         offset="0"
+         id="stop6335" />
+      <stop
+         style="stop-color:#a68c3f;stop-opacity:0;"
+         offset="1"
+         id="stop6337" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1518"
+       x="-0.01848972"
+       y="-0.12521656"
+       width="1.0369794"
+       height="1.2504331">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.43046096"
+         id="feGaussianBlur1520" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter6244"
+       x="-0.4503302"
+       y="-0.4506478"
+       width="1.9006604"
+       height="1.9012955">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.4665266"
+         id="feGaussianBlur6246" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter6248"
+       x="-0.025743205"
+       y="-0.45798188"
+       width="1.0514864"
+       height="1.9159638">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.4665266"
+         id="feGaussianBlur6250" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter6252"
+       x="-0.4503302"
+       y="-0.4506478"
+       width="1.9006604"
+       height="1.9012955">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.4665266"
+         id="feGaussianBlur6254" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6339"
+       id="radialGradient6341"
+       cx="199.86357"
+       cy="151.16582"
+       fx="199.86357"
+       fy="151.16582"
+       r="40.997726"
+       gradientTransform="matrix(1,0,0,0.17013135,0,125.44777)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6339"
+       id="radialGradient6343"
+       cx="285.65326"
+       cy="134.61624"
+       fx="285.65326"
+       fy="134.61624"
+       r="7.0155849"
+       gradientTransform="matrix(1,0,0,0.9995581,0,0.05948684)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6353"
+       id="radialGradient6347"
+       cx="257.1741"
+       cy="185.09419"
+       fx="257.1741"
+       fy="185.09419"
+       r="7.0155849"
+       gradientTransform="matrix(1,0,0,0.9995581,0,0.08179302)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6339"
+       id="radialGradient6355"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.08803911,0,115.4417)"
+       cx="294.62332"
+       cy="126.58624"
+       fx="294.62332"
+       fy="126.58624"
+       r="84.042412" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6339"
+       id="radialGradient6341-1"
+       cx="199.86357"
+       cy="151.16582"
+       fx="199.86357"
+       fy="151.16582"
+       r="40.997726"
+       gradientTransform="matrix(1,0,0,0.17013135,0,125.44777)"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1518-8"
+       x="-0.01040239"
+       y="-0.070447333"
+       width="1.0208048"
+       height="1.1408947">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.16144304"
+         id="feGaussianBlur1520-8" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6339"
+       id="radialGradient6343-2"
+       cx="285.65326"
+       cy="134.61624"
+       fx="285.65326"
+       fy="134.61624"
+       r="7.0155849"
+       gradientTransform="matrix(1,0,0,0.9995581,1.5961649,-0.81431236)"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter6244-6"
+       x="-0.20035756"
+       y="-0.20049886"
+       width="1.4007151"
+       height="1.4009978">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.55001623"
+         id="feGaussianBlur6246-6" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6339"
+       id="radialGradient6355-9"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.08803911,0,115.4417)"
+       cx="294.62332"
+       cy="126.58624"
+       fx="294.62332"
+       fy="126.58624"
+       r="84.042412" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter6248-8"
+       x="-0.012200068"
+       y="-0.21704409"
+       width="1.0244001"
+       height="1.4340882">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.55001623"
+         id="feGaussianBlur6250-0" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6353"
+       id="radialGradient6347-8"
+       cx="257.1741"
+       cy="185.09419"
+       fx="257.1741"
+       fy="185.09419"
+       r="7.0155849"
+       gradientTransform="matrix(1,0,0,0.9995581,1.5961649,-0.79200636)"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter6252-8"
+       x="-0.20035756"
+       y="-0.20049886"
+       width="1.4007151"
+       height="1.4009978">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.55001623"
+         id="feGaussianBlur6254-0" />
+    </filter>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="backshadow"
+     sodipodi:insensitive="true">
+    <text
+       xml:space="preserve"
+       style="font-size:12.7px;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT, Normal';text-align:center;direction:rtl;text-anchor:middle;opacity:0.470914;fill:#811818;fill-opacity:1;stroke:url(#radialGradient6343);stroke-width:0.886;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter6244)"
+       x="285.65015"
+       y="138.82063"
+       id="text6211"><tspan
+         sodipodi:role="line"
+         id="tspan6209"
+         style="fill:#811818;fill-opacity:1;stroke:url(#radialGradient6343);stroke-width:0.886"
+         x="285.65015"
+         y="138.82063">®</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.6417px;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;direction:rtl;text-anchor:middle;opacity:0.470914;fill:#811818;fill-opacity:1;stroke:url(#radialGradient6355);stroke-width:1.3229;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter6248)"
+       x="294.82394"
+       y="130.89787"
+       id="text6215"
+       transform="scale(0.66704911,1.49914)"><tspan
+         sodipodi:role="line"
+         id="tspan6213"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.6417px;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#811818;fill-opacity:1;stroke:url(#radialGradient6355);stroke-width:1.3229"
+         x="294.82394"
+         y="130.89787">THE EXPERT OF EXPERTS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12.7px;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT, Normal';text-align:center;direction:rtl;text-anchor:middle;opacity:0.470914;mix-blend-mode:normal;fill:#811818;fill-opacity:1;stroke:url(#radialGradient6341);stroke-width:0.886;paint-order:stroke fill markers;filter:url(#filter1518)"
+       x="199.94418"
+       y="154.33151"
+       id="text1516"
+       transform="matrix(1.9938607,0,0,5.8212672,-198.49394,-723.19004)"><tspan
+         sodipodi:role="line"
+         id="tspan1514"
+         style="opacity:1;fill:#811818;fill-opacity:1;stroke:url(#radialGradient6341);stroke-width:0.886;stroke-opacity:1"
+         x="199.94418"
+         y="154.33151">ForensisGroup</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12.7px;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT, Normal';text-align:center;direction:rtl;text-anchor:middle;opacity:0.470914;fill:#811818;fill-opacity:1;stroke:url(#radialGradient6347);stroke-width:0.886;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter6252)"
+       x="257.17099"
+       y="189.29858"
+       id="text6211-1"><tspan
+         sodipodi:role="line"
+         id="tspan6209-1"
+         style="fill:#811818;fill-opacity:1;stroke:url(#radialGradient6347);stroke-width:0.886"
+         x="257.17099"
+         y="189.29858">®</tspan></text>
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:12.7px;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT, Normal';text-align:center;direction:rtl;text-anchor:middle;opacity:1;mix-blend-mode:normal;fill:#0d0909;fill-opacity:1;stroke:url(#radialGradient6341-1);stroke-width:0.886;paint-order:stroke fill markers;filter:url(#filter1518-8)"
+       x="199.94418"
+       y="154.33151"
+       id="text1516-7"
+       transform="matrix(1.9938607,0,0,5.8212672,-196.89778,-724.06384)"><tspan
+         sodipodi:role="line"
+         id="tspan1514-6"
+         style="opacity:1;fill:#0d0909;fill-opacity:1;stroke:url(#radialGradient6341-1);stroke-width:0.886;stroke-opacity:1"
+         x="199.94418"
+         y="154.33151">ForensisGroup</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12.7px;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT, Normal';text-align:center;direction:rtl;text-anchor:middle;opacity:1;fill:#0d0909;fill-opacity:1;stroke:url(#radialGradient6343-2);stroke-width:0.886;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter6244-6)"
+       x="287.24631"
+       y="137.94684"
+       id="text6211-0"><tspan
+         sodipodi:role="line"
+         id="tspan6209-14"
+         style="fill:#0d0909;fill-opacity:1;stroke:url(#radialGradient6343-2);stroke-width:0.886"
+         x="287.24631"
+         y="137.94684">®</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.6417px;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;direction:rtl;text-anchor:middle;opacity:1;fill:#0d0909;fill-opacity:1;stroke:url(#radialGradient6355-9);stroke-width:1.3229;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter6248-8)"
+       x="294.82394"
+       y="130.89787"
+       id="text6215-3"
+       transform="matrix(0.66704911,0,0,1.49914,1.5961649,-0.87379936)"><tspan
+         sodipodi:role="line"
+         id="tspan6213-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.6417px;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0d0909;fill-opacity:1;stroke:url(#radialGradient6355-9);stroke-width:1.3229"
+         x="294.82394"
+         y="130.89787">THE EXPERT OF EXPERTS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12.7px;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT, Normal';text-align:center;direction:rtl;text-anchor:middle;opacity:1;fill:#0d0909;fill-opacity:1;stroke:url(#radialGradient6347-8);stroke-width:0.886;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter6252-8)"
+       x="258.76715"
+       y="188.42479"
+       id="text6211-1-7"><tspan
+         sodipodi:role="line"
+         id="tspan6209-1-4"
+         style="fill:#0d0909;fill-opacity:1;stroke:url(#radialGradient6347-8);stroke-width:0.886"
+         x="258.76715"
+         y="188.42479">®</tspan></text>
+  </g>
+</svg>
